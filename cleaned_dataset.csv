@@ -1,4 +1,4 @@
-is_tv_subscriber,is_movie_package_subscriber,subscription_age,bill_avg,remaining_contract,service_failure_count,download_avg,upload_avg,download_over_limit,churn,is_contract
+is_tv_subscriber,is_movie_package_subscriber,subscription_age,bill_avg,reamining_contract,service_failure_count,download_avg,upload_avg,download_over_limit,churn,is_contract
 1,0,6.84,25.0,0.14,0,8.4,2.3,0,0,1
 0,0,6.84,0.0,0.0,0,0.0,0.0,0,1,0
 1,0,6.84,16.0,0.0,0,13.7,0.9,0,1,0
